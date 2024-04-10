@@ -22,4 +22,4 @@
 
 # 4.Thanks
 
-   Thanks cyll, and you, my froends.
+   Thanks cyll, and **you, my friends**.
