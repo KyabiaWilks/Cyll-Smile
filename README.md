@@ -1,4 +1,4 @@
-# 1. Project Description
+## 1. Project Description
    
    Project _Cyll's Smile_
 
@@ -8,7 +8,7 @@
    
    Inspired by the International Obfuscated C Code Contest.
    
-# 2.Installation Instructions
+## 2.Environment
 
    System Windows 11 23H2
    
@@ -16,10 +16,10 @@
    
    Extensions: C/C++ in v1.19.8, C/C++ Themes, C/C++ Extension Pack, C/C++ Compile Run, Better C++ Syntax, CodeSnap
 
-# 3. Instructions
+## 3. Guidance
 
-   I think you don't need this part now.
+  TODO.
 
-# 4.Thanks
+## 4.Thanks
 
    Thanks cyll, and **you, my friends**.
